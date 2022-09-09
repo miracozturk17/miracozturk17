@@ -1,9 +1,9 @@
 # miracozturk
 Merhabalar ben Miraç.
 </br>
--Veri Bilimi, Veri Analizi, Raporlama Araçları ve yanı sıra C# ile programlama üzerine araştırma ve çalışmalarda bulunmaktayım.
+:star: Veri Bilimi, Veri Analizi, Raporlama Araçları ve yanı sıra C# ile programlama üzerine araştırma ve çalışmalarda bulunmaktayım.
 </br>
--Aşırı derecede konsol oyunları ve güne renk katan, yanı sıra yeni fikirler edinmeye katkı sağlayan film-dizi seyircisiyimdir.
+:star: Aşırı derecede konsol oyunları ve güne renk katan, yanı sıra yeni fikirler edinmeye katkı sağlayan film-dizi seyircisiyimdir.
 
 <img src="https://github.com/miracozturk17/miracozturk/blob/main/images/imitation_game.gif">
 
