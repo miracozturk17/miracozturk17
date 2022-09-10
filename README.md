@@ -3,7 +3,7 @@ Merhabalar ben Miraç.
 </br>
 :star: Veri Bilimi, Veri Analizi, Raporlama Araçları ve yanı sıra C# ile programlama üzerine araştırma ve çalışmalarda bulunmaktayım.
 </br>
-:star: Aşırı derecede konsol oyunları ve güne renk katan, yanı sıra yeni fikirler edinmeye katkı sağlayan film-dizi seyircisiyimdir.
+:star: Aşırı derecede konsol oyunları ile zaman geçiren ve güne renk katan, yanı sıra yeni fikirler edinmeye katkı sağlayan film-dizi seyircisiyimdir.
 
 <img src="https://github.com/miracozturk17/miracozturk/blob/main/images/imitation_game.gif">
 
