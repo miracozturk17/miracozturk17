@@ -12,3 +12,14 @@ Merhabalar ben Miraç.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mira%C3%A7-%C3%B6zt%C3%BCrk-b54268142/)](https://www.linkedin.com/in/mira%C3%A7-%C3%B6zt%C3%BCrk-b54268142/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@mirac-ozturk-sd)](https://medium.com/@mirac-ozturk-sd)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/miracozturk17?label=follow&style=social)](https://github.com/miracozturk17)
+
+
+<details>
+<summary>:bulb: Github İstatistikleri</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=miracozturk17&show_icons=true&theme=radical">
+</details>
+
+<details>
+<summary>:bulb: En çok Kullanılan Diller</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracozturk17&langs_count=8&layout=compact">
+</details>
