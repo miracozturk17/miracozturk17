@@ -7,7 +7,7 @@ Merhabalar ben Miraç.
 
 <img src="https://github.com/miracozturk17/miracozturk/blob/main/images/imitation_game.gif">
 
-🔭 Anlık olarak **[@ManageBilgiTeknolojileri](https://www.manage.com.tr/)**'nde iş zekası uzmanı olarak çalışmaktayım.
+🔭 Anlık olarak **[@Oksid Bilişim]([(https://www.oksid.com.tr/)])** ve **[@incehesap.com]([(https://www.incehesap.com/)])**'da iş zekası uzmanı olarak çalışmaktayım.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mira%C3%A7-%C3%B6zt%C3%BCrk-b54268142/)](https://www.linkedin.com/in/mira%C3%A7-%C3%B6zt%C3%BCrk-b54268142/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@mirac-ozturk-sd)](https://medium.com/@mirac-ozturk-sd)
